@@ -2,8 +2,6 @@
 
 Tp jsp
 
-![b](https://github.com/sana7867/GM/assets/147515885/f5d7a401-9e40-4045-b83a-18dd8ad496f1)
-
  
 ![c](https://github.com/sana7867/GM/assets/147515885/827677ae-23b0-48f7-ad22-17f265db42a4)
 
