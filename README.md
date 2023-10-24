@@ -2,6 +2,13 @@
 
 Tp jsp
 
+l'interface:
+
+
+![a](https://github.com/sana7867/GM/assets/147515885/e9e8fbc0-1618-4b8a-b6ea-fc9a1d07db4f)
+
+
+
 ajouter:
 
 ![b](https://github.com/sana7867/GM/assets/147515885/d2ee9352-0c03-4e80-92ef-6f99537b72c0)
@@ -18,7 +25,6 @@ ajouter:
 
 
 
-![a](https://github.com/sana7867/GM/assets/147515885/e9e8fbc0-1618-4b8a-b6ea-fc9a1d07db4f)
 
 
 
